@@ -1,0 +1,12 @@
+
+/***** custom button *****/
+
+.btn-light-outline {
+    border-color: #D7DCE5;
+    background-color: #fff;
+}
+
+.btn-light-outline:hover {
+    background-color: #D7DCE5;
+    border-color: #dae0e5;
+}

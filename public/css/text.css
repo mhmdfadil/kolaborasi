@@ -1,0 +1,36 @@
+/***** custom text *****/
+.lh-14 {
+    line-height: 1.4em;
+}
+
+.text-navi {
+    color: #1C557C;
+}
+
+.text-normal {
+    font-weight: 400 !important;
+}
+
+.font-12 {
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.font-14 {
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.font-15 {
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.font-16 {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.invalid-feedback strong strong{
+    font-weight: 700 !important;
+}

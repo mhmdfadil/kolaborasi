@@ -1,0 +1,42 @@
+/***** custom alert *****/
+
+.alert .link-blue {
+    color: #1C84C6;
+}
+
+.alert-blue-outline {
+    border: 1px solid #9FD8EF;
+    background-color: #E0F2F8 !important;
+    color: #1C557C !important;
+}
+
+.alert-blue-outline .fas{
+    color: #1C84C6;
+
+}
+
+.alert-grey-outline {
+    border: 1px solid #D7DCE5;
+    background-color: #EDF1F6 !important;
+    color: #1C557C !important;
+}
+
+.alert-grey-outline .fas{
+    color: #6F7E92;
+
+}
+
+.alert-grey-outline a{
+    color: #1C84C6;
+}
+
+.alert-red-outline {
+    border: 1px solid #F4645F;
+    background-color: #FEE2E2 !important;
+    color: #F4645F !important;
+}
+
+.alert-red-outline p{
+    color: #7F1D1D;
+    font-weight: 400 !important;
+}
